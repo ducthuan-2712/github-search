@@ -1,0 +1,62 @@
+:root {
+  /*
+   * Typography
+   * ======================================================================== */
+
+  --font-family-base: 'Roboto', sans-serif, 'Helvetica';
+
+  /*
+   * Layout
+   * ======================================================================== */
+
+  --max-content-width: 980px;
+
+  /*
+   * Media queries breakpoints
+   * ======================================================================== */
+
+  --screen-xs-min: 480px;  /* Extra small screen / phone */
+  --screen-sm-min: 768px;  /* Small screen / tablet */
+  --screen-md-min: 992px;  /* Medium screen / desktop */
+  --screen-lg-min: 1200px; /* Large screen / wide desktop */
+
+  /*
+   * Color
+   * ======================================================================= */
+
+  --color-white: #ffffff;
+  --color-main: #7166ea;
+  --color-sub-main: #645bde;
+  --color-silver: #f0f0f0;
+  --color-silver-letter: #909090;
+
+  /*
+   * Size
+   * ======================================================================= */
+
+  --font-size: 12px;
+  --font-size-letter-sub: 10px;
+  --font-size-letter-small: 13px;
+  --font-size-letter: 14px;
+  --font-size-letter-lg: 16px;
+  --font-size-xxs: 18px;
+  --font-size-xs: 24px;
+  --font-size-md: 32px;
+  --font-size-lg: 40px;
+
+  /*
+   * Length & Width
+   * ======================================================================= */
+  
+  --length-full: 100vh;
+  --width-full: 100vh;
+
+  /*
+   * Padding & Margin
+   * ======================================================================= */
+
+  --pad-mar: 10px;
+  --pad-mar-xxs: 15px;
+  --pad-mar-xs: 20px;
+  --mar: 30px;
+}
