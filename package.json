@@ -2,10 +2,6 @@
   "name": "github-search",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": ">=6.5",
-    "npm": ">=3.10"
-  },
   "dependencies": {
     "babel-polyfill": "6.16.0",
     "babel-runtime": "6.18.0",
